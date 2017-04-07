@@ -10,5 +10,5 @@ Mike Hart | | 4th November 2016
 Anders Markvardsen | [Fit minimizer benchmarking](MaterialPresented/Fit-minimizer-benchmarking-2ndDec2016-markvardsen.pptx) | 2nd December 2016
 Lamar Moore | | 16th December 2016
 Nick Draper | | 27th January 2017
-Samuel Jackson | | 24th Feb 2017
+Samuel Jackson | [Functional c++](http://slides.com/samueljackson-1/deck) | 24th Feb 2017
 David Fairbrother | | 24th March 2017
