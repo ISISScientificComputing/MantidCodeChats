@@ -10,3 +10,4 @@ Samuel Jackson | [Functional C++](http://slides.com/samueljackson-1/deck) | 24th
 Gemma Guest | [Summation in Q](http://slides.com/gemmaguest/summation_in_q) | 5th May 2017 |
 Anthony Lim | [Bayesian Inference](MaterialPresented/bays.pptx) | 19th May 2017 |
 Roman Tolchenov | [Test generation](https://gitpitch.com/mantid-roman/testingtalk) | 2nd June 2017 |
+Martyn Gigg | [Floating Point](MaterialPresented/how-are-real-numbers-represented-by-a-computer.pdf) | 28th June 2017 |
