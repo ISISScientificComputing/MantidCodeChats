@@ -16,3 +16,4 @@ Martyn Gigg | [Floating Point](MaterialPresented/how-are-real-numbers-represente
 Anton Piccardo-Selg | [Google Benchmark](https://antonpiccardoselg.github.io/slides/micro_benchmarking/#/) | 14th July 2017 |
 Nick Draper | [Video Comression Basics](MaterialPresented/videocompressionbasics-mpeg2.ppt) | 22 Sept 2017 |
 Anders Markvardsen | [Open Plan Offices](MaterialPresented/Open_plan_office.pptx) | 3rd Nov 2017 |
+Gemma Guest | [DataProcessorWidget](https://prezi.com/p/ef7djewu94vr/) | 17th Nov 2017
