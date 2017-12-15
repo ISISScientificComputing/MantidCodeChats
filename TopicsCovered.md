@@ -18,3 +18,4 @@ Nick Draper | [Video Comression Basics](MaterialPresented/videocompressionbasics
 Anders Markvardsen | [Open Plan Offices](MaterialPresented/Open_plan_office.pptx) | 3rd Nov 2017 |
 Gemma Guest | [DataProcessorWidget](https://prezi.com/p/ef7djewu94vr/) | 17th Nov 2017 |
 Anthony Lim | model view present(er) |1st December 2017 
+Elliot Oram | [Pepper's Ghost Pyramid](https://docs.google.com/presentation/d/1GnKQHOPLLzQ4XAj1c17RY6ijQBdixk0t5gSVFKmDjck/edit?usp=sharing) | 15th December 2017
